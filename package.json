@@ -1,0 +1,14 @@
+{
+  "name": "asset_host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -p 8181 ./docs/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
