@@ -2,7 +2,7 @@
   "name": "asset-host-template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "http-server -p 8181 ./docs/"
   },
