@@ -17,14 +17,7 @@ locally and/or committed to the repository to be served from a
 
 ## About This Repository
 
-This repository is part of Step 3 on the Babylon.js Golden Path:
-
-- Inspiration
-- Exploration
-- **Maturation**
-- Circulation
-
-In particular, this repo is intended to be a "jumping off point" for moving
+This repository is intended to be a "jumping off point" for moving
 ideas from prototyping into active development. This repo provides a 
 mechanism for basic asset hosting kept separate from software development.
 This separation is part of the recommended workflow for creating Babylon.js
